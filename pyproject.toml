@@ -7,7 +7,7 @@ authors = ["MusaMoses <mmusa.akhan@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 face-recognition = "^1.3.0"
-opencv-contrib-python = "^4.5.1.48"
+opencv-contrib-python = "^4.5.3"
 numpy = "^1.21.1"
 PyQt5 = "^5.15.4"
 peewee = "^3.14.4"
