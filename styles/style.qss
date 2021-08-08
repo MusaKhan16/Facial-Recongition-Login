@@ -1,0 +1,25 @@
+Register_window{
+    background-color:rgb(50,50,50)
+}
+
+QLabel{
+    color: white;
+}
+
+QLineEdit{
+    color:white;
+}
+
+#password-box{
+    color: rgb(0,0,0,1);
+    background : rgba(255,255,255, 0);
+    border: 2px solid rgb(49, 235, 235);
+    border-style:none none solid none;
+}
+
+#register-box, #add-file-button{
+    border-radius:4px;
+    background:white;
+}
+
+
