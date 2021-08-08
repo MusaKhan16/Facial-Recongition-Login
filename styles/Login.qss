@@ -1,0 +1,12 @@
+#MainWindow {
+    background: rgb(255,0,0, 0.5); /* made it red to test qss */
+}
+
+#Main-Text {
+    background:transparent;
+    color:white;
+}
+
+#Button, #Input {
+    padding:10px;
+}
