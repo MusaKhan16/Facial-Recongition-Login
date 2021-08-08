@@ -1,1 +1,4 @@
 .db
+.lock
+/Known_faces
+.pyc
