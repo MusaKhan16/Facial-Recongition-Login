@@ -19,5 +19,7 @@ class FileManager:
 
     def write_dir(destination: WindowsPath, files: List[PurePath]):
         for file in files:
-            new_file = Path(destination / file.name)
+            new_file = destination / file.name
             copy(file, new_file)
+
+            
